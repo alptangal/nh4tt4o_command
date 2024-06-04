@@ -1,0 +1,7 @@
+websockets
+requests
+bs4
+discord
+aiohttp
+msgpack
+flask
